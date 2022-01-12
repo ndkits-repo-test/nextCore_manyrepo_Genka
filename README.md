@@ -1,0 +1,2 @@
+# nextCore_manyrepo_Genka
+複数repository 原価repository
